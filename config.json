@@ -1,0 +1,14 @@
+{
+  "localDB": {
+    "trusted_connection": "yes",
+    "driver": "{SQL Server Native Client 11.0}",
+    "server": ".",
+    "database": "OCR"
+  },
+    "TestBIFDB": {
+    "trusted_connection": 
+    "driver": 
+    "server": 
+    "database": 
+  }
+}
